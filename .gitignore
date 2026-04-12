@@ -1,2 +1,5 @@
 .venv
 api_env
+.mypy*
+__pycache__
+*.pyc
